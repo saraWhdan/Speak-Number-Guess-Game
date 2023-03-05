@@ -4,7 +4,7 @@ Speak Number Guess is a simple web-based game that allows the user to guess a ra
 
 ### Live Demo
 
-Check out the [live demo] 👉 https://sarawhdan.github.io/Speak-Number-Guess-Game/ of this project hosted on GitHub Pages.
+Check out the [live demo] https://sarawhdan.github.io/Speak-Number-Guess-Game/ of this project hosted on GitHub Pages.
 
 ## Screenshot ![Screenshot (155)](https://user-images.githubusercontent.com/109487290/222561319-13553c08-09f3-464b-9dfe-d12d5c035549.png)
 
